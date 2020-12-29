@@ -1,5 +1,4 @@
 const crypto = require('crypto');
-
 /*
 The below script does the authentication check:
  * The passwords for Test1 and Test2 are hashed by using function getHashedPassword().
