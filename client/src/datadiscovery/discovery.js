@@ -21,7 +21,6 @@ function reducer(state, action) {
   }
 }
 
-
 export default function DataDiscovery() {
   const [state, dispatch] = useReducer(reducer, initialState);
   return (
