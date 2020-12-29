@@ -42,3 +42,4 @@ export default class DetailsAPIService {
         return record;
     }
 }
+
